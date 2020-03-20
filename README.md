@@ -16,11 +16,12 @@ and is much faster for very large networks (in machines with many CPU cores).
 
 Was used during the research published in:
 
-The idemetric property: when most distances are (almost) the same
-G.Barmpalias, N.Huang, A.Lewis-Pye, A.Li, X.Li, Y.Pan, T.Roughgarden
+The idemetric property: when most distances are (almost) the same.
+G.Barmpalias, N.Huang, A.Lewis-Pye, A.Li, X.Li, Y.Pan, T.Roughgarden.
 Proceedings of the Royal Society A vol 475(2222), 2019. 
 
 https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2018.0283	
+
 https://arxiv.org/abs/1804.11187
 
 which explains the high concentration of the distribution on one or two values.
