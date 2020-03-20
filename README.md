@@ -29,7 +29,6 @@ Output Example 1:
 Dataset statistics
 Nodes	23133
 Edges	93497
-=======================================================================
 
 reading size of graph CA-CondMat ......done: 108300 nodes and 186936 edges
 initialization of arrays......done
@@ -58,14 +57,13 @@ calculating distances... (2000 BFSs in steps of 400)
  14     0.0000000    0.0000000    0.0000000    0.0000000    0.0000000  
 
 finished all in 36 seconds
-===============================================================================
 
 Output Example 2:
 
 Dataset statistics
 Nodes	4039
 Edges	88234
-===============================================================================
+
 reading size of graph facebook_combined ......done: 4039 nodes and 88234 edges
 initialization of arrays......done
 reading the graph......done
